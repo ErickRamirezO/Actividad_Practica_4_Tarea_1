@@ -7,12 +7,13 @@ html {
   width: 100% !important;
   height: auto;
   margin: auto;
-  background: red;
+
 
 }
 .formulario_Car  form{
-  width: 90%!important;
-  margin:auto;
+  width: 80%!important;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .container-form {
@@ -22,7 +23,7 @@ html {
 }
 .new-mar{
   width: 100%!important;
-
+  margin-right: 5%;
 }
 
 .titulo a {
